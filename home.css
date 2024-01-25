@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+a {
+    text-underline: blue;
+    color: blue;
+}
+a:hover{
+    color: crimson;
+    text-decoration: none;
+animation: ease-in-out;
+}
+
+
